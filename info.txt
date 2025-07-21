@@ -1,0 +1,41 @@
+---
+Content: E cần thuê nhà cấp 4 hoặc tập thể ạ
+Label: Y
+---
+Label: N
+---
+Content: Em cần tìm phòng 1k1n có thang máy, máy giặt chung. Tc <5tr khu vực Cầu Giấy-Thanh Xuân
+Ac có phòng cmt ảnh + giá giúp e luôn nha
+Label: N
+---
+Content: Có bạn nữ nào cho ở ghép gần Học Viện Ngân Hàng không ạ, cho mình ở với , mình gọn gàng, sạch sẽ, ngăn nắp và không làm gì ảnh hưởng đến ng xung quanh ạ, đầu tháng là mình chuyển vào luôn ạ
+Label: Y
+---
+Content: Mình là nữ cần tìm phòng ở ghép gần hvnh ạ
+Label: Y
+---
+Content: Mình pass phòng 2tr4
+Địa chỉ: 347 cổ nhuế
+Kcc, có vskk, đc để xe điện
+Label: N
+---
+Content: Mình còn 1 phòng 2tr2 gần hồ Đền Lừ, đh nl đầy đủ, điện nước giá dân, không chung chủ. Chi tiết inb
+Label: N
+---
+Content: E cần tìm nhà trọ cấp 4 k chung chủ ạ
+Label: Y
+---
+Content: Cần tìm phòng ở ghép
+Mình là nữ, chưa có phòng, mong muốn tìm bạn nào có phòng tìm người ở ghép
+Tài chính mình tầm 2tr cả điện nước ạ
+Label: Y
+---
+Content: Xuân thủy,Hoàng Quốc Việt tìm phòng 1tr8-2tr vskk , ở luôn
+Label: Y
+---
+Content: E cần tìm nhà thuê cấp 4 k chung chủ ạ
+Label: Y
+---
+Content: Tìm phòng có vskk <3tr gần cđ yte hn
+Label: Y
+---

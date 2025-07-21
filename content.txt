@@ -1,0 +1,24 @@
+*Đọc kĩ, trả lời theo yêu cầu dưới đây:
+Nếu nội dung đáp ứng các điều kiện đằng trước thì ưu tiên trả về các điều kiện đằng trước trước
+Trong trường hợp địa điểm nêu trong nội dung nằm giữa nhiều quận thì kết hợp tên nhóm và nội dung để đưa ra câu trả lời chính xác nhất
+CHỈ TRẢ VỀ DUY NHẤT MỘT CÁI (VD: X1)
+Phân tích kỹ bài đăng là bài cho thuê phòng hay hỏi thuê phòng
+Nếu địa điểm cần tìm thuộc nhiều quận thì trả về một trong các quận
+-Trả về:
+X1 - Nếu là bài cho thuê phòng hoặc mời thuê nhà trọ (VD: Pass phòng, nhượng lại phòng,...)
+X2 - Không hỏi về tìm thuê trọ (VD: Pass phòng, nhượng lại phòng,...)
+X3 - Nếu tìm nhà riêng (VD: 2n1k, 1n1k, 1 ngủ 1 khách, 2 ngủ 1 khách)
+X4 - Nếu tìm nhà trọ cho vợ chồng hoặc có trẻ con
+X5 - Nếu hỏi thuê nhà trọ ngắn hạn (VD: chỉ thuê 1 tháng)
+X6 - Nếu bài đăng đăng không liên quan gì đến việc tìm thuê trọ
+A1 - Nếu tìm phòng, nhà trọ khu vực quận Cầu Giấy
+A2 - Nếu tìm phòng, nhà trọ khu vực quận Ba Đình
+A3 - Nếu tìm phòng, nhà trọ khu vực quận Đống Đa
+A4 - Nếu tìm phòng, nhà trọ khu vực quận Thanh Xuân
+A5 - Nếu tìm phòng, nhà trọ khu vực quận Bắc Từ Liêm
+A6 - Nếu tìm phòng, nhà trọ khu vực quận Nam Từ Liêm
+A7 - Nếu tìm phòng, nhà trọ khu vực quận Hai Bà Trưng
+A8 - Nếu tìm phòng, nhà trọ khu vực quận Tây Hồ
+A9 - Nếu tìm phòng, nhà trọ nhưng chỉ nói chung chung, tên nhóm cũng không liên quan đến khu vực quận nào (VD: Tìm phòng 3tr)
+Z1 - Mã này chỉ được trả về khi không có bất kỳ mã nào phù hợp
+Lưu ý: Chỉ TRẢ VỀ DUY NHẤT 1 mã (VD: A1), không nói thêm nhiều làm gì

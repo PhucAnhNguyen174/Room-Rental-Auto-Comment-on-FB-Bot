@@ -1,0 +1,87 @@
+2 ngủ 1 khách
+1 khách 1 ngủ
+1 ngủ 1 khách
+1 khách 2 ngủ
+3 ngủ 1 khách
+1 khách 3 ngủ
+1pn
+2pn
+3pn
+căn 1 ngủ
+căn 2 ngủ
+căn 3 ngủ
+3n1k
+2n1k
+1n1k
+1k1n
+1k2n
+1k3n
+căn hộ
+vợ chồng
+vk ck
+gia đình
+gđ
+trẻ con
+có bé nhỏ
+có em bé
+2 phòng ngủ
+1 phòng ngủ
+3 phòng ngủ
+ở tầm 2 tuần
+ở tầm 1 tuần
+ở tầm 1 tháng
+ở tầm 2 hôm
+ở tầm 2 hôm
+ở 1 tuần
+ở 2 tuần
+ở 1 tháng
+ở 1 hôm
+ở 2 hôm
+ở tầm 3 hôm
+ở 2 hôm
+thuê theo ngày
+6tr1
+6tr2
+6tr3
+6tr4
+6tr5
+6tr6
+6tr7
+6tr8
+6tr9
+7tr1
+7tr2
+7tr3
+7tr4
+7tr5
+7tr6
+7tr7
+7tr8
+7tr9
+8tr1
+8tr2
+8tr3
+8tr4
+8tr5
+8tr6
+8tr7
+8tr8
+8tr9
+9tr1
+9tr2
+9tr3
+9tr4
+9tr5
+9tr6
+9tr7
+9tr8
+9tr9
+10tr1
+10tr2
+10tr3
+10tr4
+10tr5
+10tr6
+10tr7
+10tr8
+10tr9
